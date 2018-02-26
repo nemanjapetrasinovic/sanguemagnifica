@@ -152,21 +152,51 @@
     height: 100vh;
 }
 
-.slide {
-    display: inline-block;
-    margin: 20px 10px;
-    min-width: 200px;
-    zoom: 1;
+
+
+.logo-animation{
+    animation-duration: 1.5s;
+    animation-name: zoomIn,goUpperLeft;
+    -webkit-animation-delay: 0s, 2s;
+    -webkit-animation-fill-mode: forwards;
 }
 
-.info-grey {
-    background: #2b2b2b;
-    font-size: 12px;
-    text-align: left;
-    padding: 5px;
-    margin: 1em 0;
+.menu-animation{
+    animation-duration: 4s;
+    animation-name: fade;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-fill-mode: forwards;
 }
 
-.slide img {
-    border: 0;
+.zoomIn {
+    -webkit-animation-name: zoomIn;
+    animation-name: zoomIn;
+}
+
+@keyframes goUpperLeft{
+
+    0% {
+        margin-top:200px;
+        margin-left: 40% ;
+    }
+    100% {
+        margin-top:25px;
+        margin-left:10px ;
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@keyframes fade{
+
+    0% {
+        opacity: 0;
+    }
+    90% {
+        opacity: 0;
+    }
+    100%{
+        opacity: 100;
+        z-index: 1000;
+    }
 }

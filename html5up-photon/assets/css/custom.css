@@ -143,3 +143,11 @@
     font-size: 12pt;
     margin-top: -30px
 }
+
+.homepage-picture-container{
+    background: url("../../images/pocetna.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}

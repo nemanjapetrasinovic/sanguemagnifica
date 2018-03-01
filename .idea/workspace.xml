@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943e5d77-586f-4c7f-b56b-04def124f83d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5up-photon/assets/css/custom.css" afterPath="$PROJECT_DIR$/html5up-photon/assets/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5up-photon/assets/js/MyScript.js" afterPath="$PROJECT_DIR$/html5up-photon/assets/js/MyScript.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5up-photon/index.html" afterPath="$PROJECT_DIR$/html5up-photon/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,10 +20,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html5up-photon/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59788">
-              <caret line="10310" column="5" lean-forward="false" selection-start-line="10310" selection-start-column="5" selection-end-line="10310" selection-end-column="5" />
+            <state relative-caret-position="175">
+              <caret line="160" column="148" lean-forward="false" selection-start-line="160" selection-start-column="148" selection-end-line="160" selection-end-column="148" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1519921952545" expanded="true" signature="410192:410274" ph="data:" />
               </folding>
             </state>
           </provider>
@@ -224,12 +222,12 @@
       <workItem from="1519809959047" duration="1227000" />
       <workItem from="1519915091234" duration="1411000" />
       <workItem from="1519920185483" duration="29000" />
-      <workItem from="1519920239971" duration="1003000" />
+      <workItem from="1519920239971" duration="1683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3821000" />
+    <option name="totallyTimeSpent" value="4501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -270,6 +268,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519921952545" expanded="true" signature="410192:410274" ph="data:" />
           </folding>
         </state>
       </provider>
@@ -280,6 +279,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519921952545" expanded="true" signature="410192:410274" ph="data:" />
           </folding>
         </state>
       </provider>
@@ -290,6 +290,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519921952545" expanded="true" signature="410192:410274" ph="data:" />
           </folding>
         </state>
       </provider>
@@ -315,6 +316,7 @@
           <caret line="40" column="108" lean-forward="false" selection-start-line="40" selection-start-column="108" selection-end-line="40" selection-end-column="108" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519921952545" expanded="true" signature="410192:410274" ph="data:" />
           </folding>
         </state>
       </provider>
@@ -325,6 +327,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519921952545" expanded="true" signature="410192:410274" ph="data:" />
           </folding>
         </state>
       </provider>
@@ -356,10 +359,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html5up-photon/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59788">
-          <caret line="10310" column="5" lean-forward="false" selection-start-line="10310" selection-start-column="5" selection-end-line="10310" selection-end-column="5" />
+        <state relative-caret-position="175">
+          <caret line="160" column="148" lean-forward="false" selection-start-line="160" selection-start-column="148" selection-end-line="160" selection-end-column="148" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1519921952545" expanded="true" signature="410192:410274" ph="data:" />
           </folding>
         </state>
       </provider>

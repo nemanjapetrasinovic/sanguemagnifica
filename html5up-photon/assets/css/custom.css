@@ -207,3 +207,21 @@
 .table-container{
     background: url("../../images/stressed_linen.png");
 }
+
+#wrapper {
+    height: 300px;
+    width: 1800px;
+    overflow-x:scroll;
+    overflow-y:hidden;
+}
+
+#container{
+    width:3000px;
+}
+
+.navigation-buttons {
+    padding-top: 20px;
+    width: 50%;
+    margin-left: 50%;
+    transform: translateX(-13%);
+}

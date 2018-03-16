@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4cc5de09-47f0-4afe-a6d6-31e54758540a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5up-photon/assets/css/custom.css" afterPath="$PROJECT_DIR$/html5up-photon/assets/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html5up-photon/index.html" afterPath="$PROJECT_DIR$/html5up-photon/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -371,7 +370,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10066000" />
+    <option name="totallyTimeSpent" value="10156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
